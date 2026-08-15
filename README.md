@@ -1,15 +1,15 @@
-# Hi there 👋 I'm Ebrahim Yosree
+# Hi there  I'm Ebrahim Yosree
 
-- ⚡ Fun fact:
+-  Fun fact:
 
 ![Profile views](https://counter.kuber.studio/ebrahimyosree/hacker/count.svg)
 
-## 🚀 About Me
+##  About Me
 
-- 💻 learning Cyber Scurity engineer (pentesting)
-- 🌱 Always learning new technologies
-- 🤝 Open to collaboration on interesting projects
-- 📫 Reach me there [Email Me](mailto:ebrahimyosree013@gmail.com)
+-  learning Cyber Scurity engineer (pentesting)
+-  Always learning new technologies
+-  Open to collaboration on interesting projects
+-  Reach me there [Email Me](mailto:ebrahimyosree013@gmail.com)
 
 
 ---
@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ebrahimyosree&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -31,7 +31,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ebrahimyosree&theme=tokyonight&hide_border=true" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ebrahimyosree&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebrahimyosree&theme=tokyo-night" />
@@ -55,7 +55,7 @@
 
 ---
 
-## 🤝 FOlloW Me
+##  FOlloW Me
 
 <p>
   <a href="https://github.com/ebrahimyosree">
@@ -63,7 +63,11 @@
   </a>
 </p>
 
-- 📫 How to reach me: ...
+
+-  How to reach me: ...
   [MY Email](mailto:ebrahimyosree013@gmail.com)
+
+
+- [My Portfolio](https://ebrahimy.sytes.net)
 
 
