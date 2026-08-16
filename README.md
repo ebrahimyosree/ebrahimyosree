@@ -1,5 +1,8 @@
 # Hi there  I'm Ebrahim Yosree
 
+<img width="1254" height="1254" alt="porto_img" src="https://github.com/user-attachments/assets/e8242195-550a-4ac1-aa22-0aa549416fc5" />
+
+
 -  Fun fact:
 
 ![Profile views](https://counter.kuber.studio/ebrahimyosree/hacker/count.svg)
@@ -9,7 +12,6 @@
 -  learning Cyber Scurity engineer (pentesting)
 -  Always learning new technologies
 -  Open to collaboration on interesting projects
--  Reach me there [Email Me](mailto:ebrahimyosree013@gmail.com)
 
 
 ---
@@ -55,19 +57,17 @@
 
 ---
 
-##  FOlloW Me
+##  Follow Me
 
-<p>
-  <a href="https://github.com/ebrahimyosree">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<p>   <a href="https://github.com/ebrahimyosree">     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />   </a> </p>
 
+<p>   <a href="https://ebrahimy.sytes.net">     <img src="https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge" />   </a> </p>
 
--  How to reach me: ...
-  [MY Email](mailto:ebrahimyosree013@gmail.com)
+<p>   <a href="mailto:ebrahimyosree013@gmail.com">     <img src="https://img.shields.io/badge/My%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />   </a> </p>
 
 
-- [My Portfolio](https://ebrahimy.sytes.net)
+
+
+
 
 
