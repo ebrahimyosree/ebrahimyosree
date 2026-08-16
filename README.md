@@ -1,4 +1,4 @@
-# Hi there  I'm Ebrahim Yosree
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=I'm+Ebrahim+Yosree;Penetration+Tester;Web+Security+Researcher" />
 
 <img width="1254" height="1254" alt="porto_img" src="https://github.com/user-attachments/assets/e8242195-550a-4ac1-aa22-0aa549416fc5" />
 
